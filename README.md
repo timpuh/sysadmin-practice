@@ -9,6 +9,6 @@ Learning System Administration step by step — starting with Linux basics
 - [x] Practiced basic terminal commands (pwd, ls, mkdir, cd)
 - [x] File management (touch, nano, mv, cat)
 - [x] Deleting files (rm)
-- [ ] User & permission management
+- [ ] User & permission management (`whoami, sudo, su, adduser add user, chmod, chown, ls -l, exit `)
 - [ ] Basic firewall configuration
 - [ ] First Bash script
