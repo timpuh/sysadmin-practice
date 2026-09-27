@@ -6,9 +6,9 @@ Learning System Administration step by step — starting with Linux basics
 
 ## Progress
 - [x] Installed VirtualBox + Ubuntu 26.04 LTS
-- [x] Practiced basic terminal commands (pwd, ls, mkdir, cd)
-- [x] File management (touch, nano, mv, cat)
-- [x] Deleting files (rm)
+- [x] Practiced basic terminal commands (`pwd, ls, mkdir, cd`)
+- [x] File management (`touch, nano, mv, cat`)
+- [x] Deleting files (`rm`)
 - [ ] User & permission management (`whoami, sudo, su, adduser add user, chmod, chown, ls -l, exit `)
 - [ ] Basic firewall configuration
 - [ ] First Bash script
