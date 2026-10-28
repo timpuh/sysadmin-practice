@@ -15,13 +15,13 @@ Learning System Administration step by step — starting with Linux basics
   - [x] moving and renaming files `mv`
   - [x] deleting files/folders `rm`/`rm -r`
 
-- [x] User management
+- [ ] User management
   - [ ] checking the current user `whoami`
   - [ ] running commands as admin `sudo`
   - [ ] switching users `su` `exit`
   - [ ] creating users `adduser`
 
-- [x] Permission management
+- [ ] Permission management
   - [ ] reading permissions `ls -l`
   - [ ] changing permissions, letter format `chmod +x`
   - [ ] changing permissions, numeric format `chmod 644` `chmod 755`
