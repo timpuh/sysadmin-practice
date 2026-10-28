@@ -6,13 +6,16 @@ Learning System Administration step by step — starting with Linux basics
 
 ## Progress
 - [x] installed VirtualBox + Ubuntu LTS
+
 - [x] Basic terminal commands 
-  - [x] navigation `pwd` `ls` `cd`
+  - [x] navigation `pwd` `ls` `cd` `cd ../..`
   - [x] creating folders and files `mkdir` `touch`   
   - [x] editing files `nano`
   - [x] reading files `cat`
   - [x] moving and renaming files `mv`
   - [x] deleting files/folders `rm`/`rm -r`
+
+- [x] User management
 
 
 - [x] File management (touch, nano, mv, cat, ../, /home)
