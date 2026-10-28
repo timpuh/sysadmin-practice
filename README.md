@@ -5,10 +5,16 @@ Linux &amp; SysAdmin practice repository
 Learning System Administration step by step — starting with Linux basics
 
 ## Progress
-- [x] Installed VirtualBox + Ubuntu LTS
+- [x] installed VirtualBox + Ubuntu LTS
 ### Basic terminal commands 
-- [x] Navigation `pwd` `ls` `cd`
-(pwd, ls, mkdir, cd)
+- [x] navigation `pwd` `ls` `cd`
+- [x] creating folders and files `mkdir` `touch`   
+- [x] editing files `nano`
+- [x] reading files `cat`
+- [x] moving and renaming files `mv`
+- [ ] deleting files/folders `rm`/`rm -r`
+
+
 - [x] File management (touch, nano, mv, cat, ../, /home)
 - [x] Deleting files (rm)
 - [ ] User & permission management (whoami, sudo, su, adduser, chmod, chown, ls -l, exit)
