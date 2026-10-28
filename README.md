@@ -5,7 +5,7 @@ Linux &amp; SysAdmin practice repository
 Learning System Administration step by step — starting with Linux basics
 
 ## Progress
-- [x] installed VirtualBox + Ubuntu LTS
+- [x] Installed VirtualBox + Ubuntu LTS
 
 - [x] Basic terminal commands 
   - [x] navigation `pwd` `ls` `cd` `cd ../..`
@@ -16,10 +16,17 @@ Learning System Administration step by step — starting with Linux basics
   - [x] deleting files/folders `rm`/`rm -r`
 
 - [x] User management
+  - [ ] checking the current user `whoami`
+  - [ ] running commands as admin `sudo`
+  - [ ] switching users `su` `exit`
+  - [ ] creating users `adduser`
 
+- [x] Permission management
+  - [ ] reading permissions `ls -l`
+  - [ ] changing permissions, letter format `chmod +x`
+  - [ ] changing permissions, numeric format `chmod 644` `chmod 755`
+  - [ ] changing file owner `chown`
 
-- [x] File management (touch, nano, mv, cat, ../, /home)
-- [x] Deleting files (rm)
-- [ ] User & permission management (whoami, sudo, su, adduser, chmod, chown, ls -l, exit)
+  
 - [ ] Basic firewall configuration
 - [ ] First Bash script
