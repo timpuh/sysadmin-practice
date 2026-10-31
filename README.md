@@ -13,7 +13,7 @@ Learning System Administration step by step — starting with Linux basics
   - [x] editing files `nano`
   - [x] reading files `cat` `cat a.txt b.txt`
   - [x] moving and renaming files `mv`
-  - [x] deleting files/folders `rm`/`rm -r` `rm -rf`
+  - [x] deleting files/folders `rm` / `rm -r` `rm -rf`
   - [x] level up commands `cd ../..`
 
 - [ ] User management
