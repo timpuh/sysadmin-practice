@@ -15,6 +15,7 @@ Learning System Administration step by step — starting with Linux basics
   - [x] moving and renaming files `mv`
   - [x] deleting files/folders `rm` / `rm -r` `rm -rf`
   - [x] level up commands `cd ../..`
+  - [ ] writing output to a file `>` / `>>`
 
 - [ ] User management
   - [ ] checking the current user `whoami`
