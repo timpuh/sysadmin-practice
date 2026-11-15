@@ -12,6 +12,7 @@ Learning System Administration step by step — starting with Linux basics
   - [x] creating folders and files `mkdir` `touch`   
   - [x] editing files `nano`
   - [x] reading files `cat` `cat a.txt b.txt`
+  - [ ] checking file type `file`
   - [x] moving and renaming files `mv`
   - [x] deleting files/folders `rm` / `rm -r` `rm -rf`
   - [x] level up commands `cd ../..`
