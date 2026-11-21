@@ -34,4 +34,4 @@ Learning System Administration step by step — starting with Linux basics
 - [ ] First Bash script
 - [ ] Redirection operator
 
-- [ ] which/file 
+- [ ] which
