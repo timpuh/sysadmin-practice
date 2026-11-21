@@ -33,3 +33,5 @@ Learning System Administration step by step — starting with Linux basics
 - [ ] Basic firewall configuration
 - [ ] First Bash script
 - [ ] Redirection operator
+
+which/file 
