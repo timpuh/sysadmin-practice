@@ -1,10 +1,10 @@
 # sysadmin-practice
 Linux &amp; SysAdmin practice repository
 
-## About
+## about
 Learning System Administration step by step — starting with Linux basics
 
-## Progress
+## progress
 - [x] Installed VirtualBox + Ubuntu LTS
 
 - [x] File management
