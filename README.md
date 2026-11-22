@@ -2,7 +2,7 @@
 Linux &amp; SysAdmin practice repository
 
 ## about
-Learning System Administration step by step — starting with Linux basics
+Learning System Administration step by step — starting with Linux basics.
 
 ## progress
 - [x] Installed VirtualBox + Ubuntu LTS
