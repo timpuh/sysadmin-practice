@@ -1,8 +1,8 @@
-# sysadmin-practice
+# linux-infra-foundations
 Linux &amp; SysAdmin practice repository
 
 ## about
-Learning System Administration step by step — starting with Linux basics.
+Core Linux infrastructure, basic security, and Bash scripting.
 
 ## progress
 - [x] Installed VirtualBox + Ubuntu LTS
