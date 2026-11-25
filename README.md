@@ -1,5 +1,5 @@
 # linux-infra-foundations
-Linux &amp; SysAdmin practice repository
+Linux &amp; Infra practice repository
 
 ## about
 Core Linux infrastructure, basic security, and Bash scripting.
